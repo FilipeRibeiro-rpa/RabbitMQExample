@@ -1,0 +1,4 @@
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Producer.Message.Send\bin\Debug\netcoreapp3.1\Producer.Message.Send.exe
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Producer.Message.Send\obj\Debug\netcoreapp3.1\Producer.Message.Send.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Producer.Message.Send\obj\Debug\netcoreapp3.1\Producer.Message.Send.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Producer.Message.Send\obj\Debug\netcoreapp3.1\Producer.Message.Send.AssemblyInfo.cs

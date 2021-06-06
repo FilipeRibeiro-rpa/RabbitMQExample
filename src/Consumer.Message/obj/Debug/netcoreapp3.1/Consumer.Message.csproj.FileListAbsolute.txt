@@ -1,0 +1,16 @@
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\bin\Debug\netcoreapp3.1\Consumer.Message.exe
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\obj\Debug\netcoreapp3.1\Consumer.Message.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\obj\Debug\netcoreapp3.1\Consumer.Message.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\obj\Debug\netcoreapp3.1\Consumer.Message.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\bin\Debug\netcoreapp3.1\Consumer.Message.deps.json
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\bin\Debug\netcoreapp3.1\Consumer.Message.runtimeconfig.json
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\bin\Debug\netcoreapp3.1\Consumer.Message.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\bin\Debug\netcoreapp3.1\Consumer.Message.dll
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\bin\Debug\netcoreapp3.1\Consumer.Message.pdb
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\obj\Debug\netcoreapp3.1\Consumer.Message.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\obj\Debug\netcoreapp3.1\Consumer.Message.csproj.CopyComplete
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\obj\Debug\netcoreapp3.1\Consumer.Message.dll
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\obj\Debug\netcoreapp3.1\Consumer.Message.pdb
+C:\Users\Administrador\source\repos\MicroServicesRabbitMQ\src\Producer.Message.Send\Consumer.Message\obj\Debug\netcoreapp3.1\Consumer.Message.genruntimeconfig.cache
