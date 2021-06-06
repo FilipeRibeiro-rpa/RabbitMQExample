@@ -1,13 +1,13 @@
 # RabbitMQ Example
 
-This project was created to show example of as software RabbitMQ can be implement in a microservices arquicteture.
+This project was created to show an example of how RabbitMQ software can be implemented in a microservices architecture.
 
-# Pré-Requisitos
+# Prerequisites
 
-Before of execute the services is necessary docker install in the machine. After that of install to need execute code:
+Before running the services it is necessary to install the docker on the machine. After installation, you need to run the code below to start a RabbitMQ server:
 
-    docker run -d --hostname my-rabbit --name some-rabbit -p 5672:5672  rabbitmq:3-management
+      docker run -d --hostname my-rabbit --name some-rabbit -p 5672: 5672 rabbitmq: 3-management
 
-# Project Estruture
+#  Project
 
-Foram criados dois projetos console app em net core, o primerio chamdao producer, o qual será responsável por publicar mensagens no RabbitMQ, o segundo segundo projeto chamado consumer é responsável por ler as mensagens na fila do RabbitMQ.
+Two console app projects were created in Aps Net Core, the first one called producer.message, which will be responsible for publishing messages in RabbitMQ, the second project called consumer.message is responsible for reading messages in the RabbitMQ queue.
